@@ -25,7 +25,6 @@ header nav {
 
 header .logo_name {
   height: 35px;
-  /* width: 20px; */
   padding: 7px;
 }
 
@@ -36,7 +35,6 @@ header nav .right select {
   border: 1px solid rgb(117, 112, 112);
   background-color: transparent;
   color: white;
-  /* font-weight: bold; */
 }
 
 header nav .right select option {
@@ -161,7 +159,6 @@ header .intro .emal_signUP button {
   border-top-right-radius: 75% 100%;
   background-image: linear-gradient(rgb(31, 31, 70), black);
   height: 21vh;
-  /* border-radius: 2px solid white; */
 }
 
 
@@ -174,11 +171,7 @@ main {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.trending h2 {
-  /* padding: 15px 0; */
-}
 main .trending {
-  /* margin-bottom: 4px; */
   padding: 20px 0;
 }
 
@@ -198,10 +191,6 @@ main .trending img {
   width: 31vh;
 }
 
-.join h2 {
-  /* padding: 15px 0; */
-  /* margin-top: 4px; */
-}
 main h2 {
   padding: 15px 0;
 }
@@ -486,7 +475,6 @@ footer .footer_bottom ul li {
 
   header .intro .emal_signUP {
     display: grid;
-    /* justify-items: center; */
     justify-content: center;
     padding: 0 5px;
 
@@ -504,7 +492,6 @@ footer .footer_bottom ul li {
   }
 
   .curve {
-    /* padding-bottom: 16vh; */
     border-top-left-radius: 150% 100%;
     border-top-right-radius: 150% 100%;
   }
@@ -531,7 +518,6 @@ footer .footer_bottom ul li {
   }
 
   footer form {
-    /* width: fit-content; */
     display: block;
     justify-content: flex-start;
   }
