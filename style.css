@@ -177,6 +177,7 @@ main .card_scroll {
   /* overflow-x: scroll; */
   overflow: hidden;
   gap: 35px;
+  height:160px;
 }
 
 main .trending img {
